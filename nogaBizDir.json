@@ -15,5 +15,27 @@
 			"bizImage": "https://cdn.jsdelivr.net/gh/seffyfisher/noga-biz-dir@8a5eb8c7008cadbf85a09ae572cd62132389af2e/pictures/sanRemo.jpeg",
 			"bizAddress": "נחמה 2"
 		}
+	],
+	"category": [
+		{
+			"categoryItem": "אוכל",
+			"bizItem": [
+				{
+					"bizName": "פר דרייר",
+					"bizImage": "https://cdn.jsdelivr.net/gh/seffyfisher/noga-biz-dir@59716105ddcbb3f4932aba7c6deea6f358f76135/pictures/502.jpg",
+					"bizAddress": "בת עמי 7"
+				},
+				{
+					"bizName": "קפליקס",
+					"bizImage": "https://cdn.jsdelivr.net/gh/seffyfisher/noga-biz-dir@036afe53ad905b5d4a51406fbec9c4a0590ab1df/pictures/cafelix-levinsky-tel-aviv-the-coffeevine.jpg",
+					"bizAddress": "סגולה 13"
+				},
+				{
+					"bizName": "קזינו סן רמו",
+					"bizImage": "https://cdn.jsdelivr.net/gh/seffyfisher/noga-biz-dir@8a5eb8c7008cadbf85a09ae572cd62132389af2e/pictures/sanRemo.jpeg",
+					"bizAddress": "נחמה 2"
+				}
+			]
+		}
 	]
 }
