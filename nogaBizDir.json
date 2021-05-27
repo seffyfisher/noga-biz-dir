@@ -41,7 +41,8 @@
 			"categoryItem": "מצרכים",
 			"bizItem": [
 				{
-					"bizName": "אלבה - הבריאה בשכונה"
+					"bizName": "אלבה - הבריאה בשכונה",
+					"bizAddress": "בת עמי 6"
 				}
 			]
 		}
