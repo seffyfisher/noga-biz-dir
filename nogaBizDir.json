@@ -44,6 +44,10 @@
 					"bizName": "אלבה - הבריאה בשכונה",
 					"bizImage": "https://cdn.jsdelivr.net/gh/seffyfisher/noga-biz-dir@3eee990a87a3fb2ae9d346dcd95e13a5073649e7/pictures/alba.jpg",
 					"bizAddress": "בת עמי 6"
+				},
+				{
+					"bizName": "נגה מרקט",
+					"bizAddress": "שדרות ירושלים 3"
 				}
 			]
 		}
