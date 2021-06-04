@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="he">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- mavo start -->
+    <link rel="stylesheet" href="mavo/mavo.min.css"/>
+    <script src="mavo/mavo.min.js"></script>
+    <!-- mavo end -->
+
+    <link rel="stylesheet" href="style.css"/>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Miriam+Libre&family=Secular+One&display=swap" rel="stylesheet">
+
+    <title>שכונת נוגה</title>
+</head>
+<body>
+    <div mv-app="nogaBizDir" mv-storage="https://github.com/seffyfisher/noga-biz-dir" mv-uploads="https://github.com/seffyfisher/noga-biz-dir" mv-bar="no-login" mv-autosave=10>
+        
+        <h1>שכונת נוגה</h1>
+        <div class="category" property="category" mv-multiple>
+        <h4 class="category-title separator" property="categoryItem"></h4>
+
+        <div class="all-bizs">
+            <article property="bizItem" mv-multiple>
+                <h3 property="bizName"></h3>
+                <img property="bizImage" mv-upload-path="pictures" />
+                <address property="bizAddress"></address>
+            </article>
+        </div>
+
+
+    </div>
+
+<!--end of app-->
+</div>
+
+
+</body>
+</html>

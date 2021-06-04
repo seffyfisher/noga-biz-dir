@@ -1,0 +1,67 @@
+body{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+img{
+    min-width: 180px;
+    max-width: 20vw;
+}
+
+.card{
+    margin:1rem;
+}
+h1,h2,h3,h4{
+  font-family: 'Secular One', sans-serif;
+  font-weight: 400;
+}
+
+h1{
+    text-align: center;
+}
+
+p,address{
+  font-family: 'Miriam Libre', sans-serif;
+  font-style: normal;
+}
+
+article{
+    margin:1rem;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+    padding:1rem;
+    text-align: center;
+    min-width: 200px;
+    border-radius: 10px;
+
+}
+.all-bizs{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.category-title{
+  font-size:1.2rem;
+  color:coral;
+  text-align: center;
+}
+
+.separator {
+    display: flex;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .separator::before,
+  .separator::after {
+    content: '';
+    flex: 1;
+    border-bottom: 1px solid currentColor;
+  }
+  
+  .separator:not(:empty)::before {
+    margin-right: .35em;
+  }
+  
+  .separator:not(:empty)::after {
+    margin-left: .35em;
+  }
+/* MAVO */
