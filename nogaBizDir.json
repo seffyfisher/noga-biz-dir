@@ -6,7 +6,8 @@
 				{
 					"bizName": "פר דרייר",
 					"bizImage": "https://cdn.jsdelivr.net/gh/seffyfisher/noga-biz-dir@59716105ddcbb3f4932aba7c6deea6f358f76135/pictures/502.jpg",
-					"bizAddress": "בת עמי 7"
+					"bizAddress": "בת עמי 7",
+					"bizIcon": "🍹"
 				},
 				{
 					"bizName": "קפליקס",
@@ -18,7 +19,7 @@
 					"bizName": "קזינו סן רמו",
 					"bizImage": "https://cdn.jsdelivr.net/gh/seffyfisher/noga-biz-dir@8a5eb8c7008cadbf85a09ae572cd62132389af2e/pictures/sanRemo.jpeg",
 					"bizAddress": "נחמה 2",
-					"bizIcon": "👨"
+					"bizIcon": "🧆"
 				}
 			]
 		},
@@ -28,12 +29,14 @@
 				{
 					"bizName": "אלבה - הבריאה בשכונה",
 					"bizImage": "https://cdn.jsdelivr.net/gh/seffyfisher/noga-biz-dir@3eee990a87a3fb2ae9d346dcd95e13a5073649e7/pictures/alba.jpg",
-					"bizAddress": "בת עמי 6"
+					"bizAddress": "בת עמי 6",
+					"bizIcon": "🥦"
 				},
 				{
 					"bizName": "נגה מרקט",
 					"bizImage": "https://cdn.jsdelivr.net/gh/seffyfisher/noga-biz-dir@e508be3358c12059803026088090a42dceb88176/pictures/24335781_1597949870468.jpg",
-					"bizAddress": "שדרות ירושלים 3"
+					"bizAddress": "שדרות ירושלים 3",
+					"bizIcon": "🍅"
 				}
 			]
 		}
