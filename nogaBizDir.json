@@ -47,7 +47,9 @@
 				},
 				{
 					"bizName": "גואטה",
-					"bizIcon": "🥟"
+					"bizIcon": "🥟",
+					"bizImage": "https://cdn.jsdelivr.net/gh/seffyfisher/noga-biz-dir@d7d4170fa7115a9a5cde5cf0422b06370127b248/pictures/8[1].jpg",
+					"bizAddress": "<p>שדרות ירושלים 8</p>"
 				}
 			]
 		},
