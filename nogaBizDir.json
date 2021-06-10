@@ -44,6 +44,10 @@
 					"bizIcon": "🌸",
 					"bizImage": "https://cdn.jsdelivr.net/gh/seffyfisher/noga-biz-dir@00b2e7c9af2283ecfa0c3146fd204c19b0d9ce8c/pictures/ocd-restaurant[1].jpg",
 					"bizAddress": "<p>תרצה 17</p>"
+				},
+				{
+					"bizName": "גואטה",
+					"bizIcon": "🥟"
 				}
 			]
 		},
